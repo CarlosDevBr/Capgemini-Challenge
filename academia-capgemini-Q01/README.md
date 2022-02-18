@@ -17,12 +17,10 @@
 
 #Demonstração da aplicação
 <h1 align="center">
-  <img alt="AcademiaCapgemini" title="#AcademiaCapgemini" src="./img/img12" />
+  <a href="https://imgur.com/uNczpdA"><img src="https://i.imgur.com/uNczpdA.png" title="source: imgur.com" /></a>
+<p> <br /> </p>	
+  <a href="https://imgur.com/7IaGvo0"><img src="https://i.imgur.com/7IaGvo0.png" title="source: imgur.com" /></a>
 </h1>
-<p align="center">
-  <a href="#">
-    <img align="center" width="450" src="./img/img12" />
-  </a>
 
 #Pré-requisitos e como rodar a aplicação/testes
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -32,7 +30,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/carlosdevbr/challenges>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd challenger
