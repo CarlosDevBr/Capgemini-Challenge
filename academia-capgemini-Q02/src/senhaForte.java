@@ -20,13 +20,10 @@ public class senhaForte {
 					System.out.println(6 - senha.length());
 				}
 				else {
-				System.out.println(6 - senha.length() + ValidadorSenhas.howManyAreMissing(senha) - 1);
+					System.out.println(6 - senha.length() + ValidadorSenhas.howManyAreMissing(senha) - 1);
 				}
 			}
 		}
-		
-		
-		System.out.println(ValidadorSenhas.howManyAreMissing(senha));
 		sc.close();
 	}
 }
