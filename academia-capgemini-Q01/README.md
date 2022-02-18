@@ -1,15 +1,6 @@
 # Challenge Escada
 
-#Este programa lê um numero e retorna uma escada do 1 até o numero escolhido.
-
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
+#Este programa lê um numero e retorna uma escada do tamanho desse numero.
 
 <h4 align="center"> 
 	🚀 Concluido! 🚀
@@ -32,12 +23,9 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 # Clone este repositório
 $ git clone <https://github.com/carlosdevbr/challenges>
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd challenger
+# Acesse a pasta do projeto, clique com o botão direito e selecione git Bash Here
+$ cd bin
 
-# Vá para a pasta academia-capgemini-Q01
-$ cd academia-capgemini-Q01
-
-# Execute a aplicação em modo de desenvolvimento
-$ java /bin/escada
+# execute a aplicação
+$ java escada
 ```
