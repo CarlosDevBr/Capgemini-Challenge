@@ -1,0 +1,53 @@
+package utils;
+
+public class ValidadorSenhas {
+	public static boolean containNumbem(String senha) {
+		String nums = "1234567890";
+		char[] chars = nums.toCharArray();
+		
+		
+		for(char ch : chars) {
+			if(senha.indexOf(ch) != -1) {
+				return true;
+			}
+		}
+		
+		return false;		
+	}
+	
+	public static boolean containUpperCase(String senha) {
+		String upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+		char[] chars = upperCase.toCharArray();
+		
+		for(char ch : chars) {
+			if(senha.indexOf(ch) != -1) {
+				return true;
+			}
+		}
+		return false;		
+	}
+	
+	public static boolean containLowerCase(String senha) {
+		String lowerCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".toLowerCase();
+		char[] chars = lowerCase.toCharArray();
+		
+		for(char ch : chars) {
+			if(senha.indexOf(ch) != -1) {
+				return true;
+			}
+		}
+		return false;
+	}
+	
+	public static boolean containSpecialCaractere(String senha) {
+		String special = "!@#$%^&*()-+";
+		char[] chars = special.toCharArray();
+		
+		for(char ch : chars) {
+			if(senha.indexOf(ch) != -1) {
+				return true;
+			}
+		}
+		return false;
+	}
+}

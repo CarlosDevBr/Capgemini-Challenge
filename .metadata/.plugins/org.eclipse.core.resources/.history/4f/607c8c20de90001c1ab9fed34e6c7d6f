@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class senhaForte {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Digite uma senha:[]");
+		String senha = sc.nextLine();
+		
+		if(containNumbem(senha)) {
+			
+		}
+		
+		sc.close();
+	}
+
+	private static boolean containNumbem(String senha) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

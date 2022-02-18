@@ -1,0 +1,21 @@
+package utils;
+
+public class validadorSenhas {
+
+	
+	public static boolean containNumbem(String senha) {
+		
+		char[] chars = senha.toCharArray();
+		String nums = "1234567890";
+		
+		
+		for(String ch : senha) {
+			if(senha.contains(ch)) {
+				return
+			}
+		}
+		
+		return false;
+		
+	}
+}
