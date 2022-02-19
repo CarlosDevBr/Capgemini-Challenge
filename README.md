@@ -1,6 +1,6 @@
 # Pré-requisitos para TODOS os desafios e como rodar a aplicação/testes
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Java](https://www.oracle.com/java/technologies/downloads/), [Eclipse](https://www.eclipse.org/downloads/packages/).
+[Java](https://www.oracle.com/java/technologies/downloads/), [Eclipse](https://www.eclipse.org/downloads/packages/), [Git](https://git-scm.com).
 #
 # 🚀 Challenge Escada
 
