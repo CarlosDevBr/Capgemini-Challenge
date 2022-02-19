@@ -6,7 +6,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 # Este programa lê um numero e retorna uma escada do tamanho desse numero.
 
-# [Demonstração da aplicação] (https://github.com/CarlosDevBr/teste/tree/main/academia-capgemini-Q01)
+# [Demonstração da aplicação] (https://github.com/CarlosDevBr/teste/tree/main/Q01)
  
 
 ### 🎲 Rodando o programa
@@ -34,7 +34,7 @@ $ java escada
 ### Contém no mínimo 1 letra em maiúsculo.
 ### Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*()-+
  
-# [Demonstração da aplicação] (https://github.com/CarlosDevBr/teste/tree/main/academia-capgemini-Q02)
+# [Demonstração da aplicação] (https://github.com/CarlosDevBr/teste/tree/main/Q02)
 
 ### 🎲 Rodando o programa
 #Para rodar o programa pode ser pelo cmd ou pelo eclipse
@@ -70,7 +70,7 @@ $ java escada
  
 ## Este programa lê uma string e diz qual o número de pares de substrings que são anagramas foram encontrados.
 
-# [Demonstração da aplicação] (https://github.com/CarlosDevBr/teste/tree/main/academia-capgemini-Q01)
+# [Demonstração da aplicação] (https://github.com/CarlosDevBr/teste/tree/main/Q03)
 
 ### 🎲 Rodando o programa
 
