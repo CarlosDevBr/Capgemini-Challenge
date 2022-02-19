@@ -1,17 +1,15 @@
-
-# 🚀 Pré-requisitos para TODOS os desafios e como rodar a aplicação/testes
+# Pré-requisitos para TODOS os desafios e como rodar a aplicação/testes
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Java](https://www.oracle.com/java/technologies/downloads/), [Eclipse](https://www.eclipse.org/downloads/packages/).
+#
+# 🚀 Challenge Escada
 
-# Challenge Escada
-
-# 🚀 Este programa lê um numero e retorna uma escada do tamanho desse numero.
+# Este programa lê um numero e retorna uma escada do tamanho desse numero.
 
 # [Demonstração da aplicação] (https://github.com/CarlosDevBr/teste/tree/main/academia-capgemini-Q01)
-
  
 
-### 🎲 Rodando
+### 🎲 Rodando o programa
 
 ```bash
 # Clone este repositório
@@ -23,16 +21,20 @@ $ cd bin
 # execute a aplicação
 $ java escada
 ```
+#
 
 
-# Challenge02 SenhaForte
+# 🚀 Challenge02 SenhaForte
 
-#Este programa lê um numero e retorna uma escada do tamanho desse numero.
-
-<h4 align="center"> 
-	🚀 Concluido! 🚀
-</h4>
+## Este programa lê uma string e diz quantos caracteres são preciso ser adicionado para ser considerada uma senha forte.
+## Requisitos para uma senha forte:
+### Possui no mínimo 6 caracteres.
+### Contém no mínimo 1 digito.
+### Contém no mínimo 1 letra em minúsculo.
+### Contém no mínimo 1 letra em maiúsculo.
+### Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*()-+
  
+# [Demonstração da aplicação] (https://github.com/CarlosDevBr/teste/tree/main/academia-capgemini-Q02)
 
 ### 🎲 Rodando o programa
 #Para rodar o programa pode ser pelo cmd ou pelo eclipse
@@ -62,26 +64,15 @@ $ java escada
 #clique com o botão direito do mouse em TesteSenha.java
 #clique Run As --> JUnit Test
 ```
-
-
-# Challenge03 Anagrama
-
-## Este programa lê uma string e diz quantos caracteres são preciso ser adicionado para ser considerada uma senha forte.
-## Requisitos para uma senha forte:
-### Possui no mínimo 6 caracteres.
-### Contém no mínimo 1 digito.
-### Contém no mínimo 1 letra em minúsculo.
-### Contém no mínimo 1 letra em maiúsculo.
-### Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*()-+
 #
 
-<h4 align="center"> 
-	🚀 Concluido! 🚀
-</h4>
+# 🚀 Challenge03 Anagrama
+ 
+## Este programa lê uma string e diz qual o número de pares de substrings que são anagramas foram encontrados.
 
-#  
+# [Demonstração da aplicação] (https://github.com/CarlosDevBr/teste/tree/main/academia-capgemini-Q01)
 
-### 🎲 Rodando
+### 🎲 Rodando o programa
 
 ```bash
 # Clone este repositório
