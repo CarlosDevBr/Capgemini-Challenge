@@ -1,17 +1,14 @@
 
-#Pré-requisitos para TODOS os desafios e como rodar a aplicação/testes
+# 🚀 Pré-requisitos para TODOS os desafios e como rodar a aplicação/testes
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Java](https://www.oracle.com/java/technologies/downloads/), [Eclipse](https://www.eclipse.org/downloads/packages/).
 
 # Challenge Escada
 
-#Este programa lê um numero e retorna uma escada do tamanho desse numero.
+# 🚀 Este programa lê um numero e retorna uma escada do tamanho desse numero.
 
-<h4 align="center"> 
-	🚀 Concluido! 🚀
-</h4>
+# [Demonstração da aplicação] (https://github.com/CarlosDevBr/teste/tree/main/academia-capgemini-Q01)
 
-#Demonstração da aplicação
  
 
 ### 🎲 Rodando
@@ -54,9 +51,18 @@ $ java escada
 ```bash
 #Primeiro abra o projeto no eclipse
 #clique no projeto --> src
-#clique com o botão direito do mouse em Escada.java
+#clique com o botão direito do mouse em SenhaForte.java
 #clique Run As --> Java Application
 ```
+### 💻 Rodando os testes
+#Pelo Eclipse
+```bash
+#Primeiro abra o projeto no eclipse
+#clique no projeto --> src
+#clique com o botão direito do mouse em TesteSenha.java
+#clique Run As --> JUnit Test
+```
+
 
 # Challenge03 Anagrama
 
@@ -91,15 +97,15 @@ $ java senhaForte
 ```bash
 #Primeiro abra o projeto no eclipse
 #clique no projeto --> src
-#clique com o botão direito do mouse em senhaForte.java
+#clique com o botão direito do mouse em Anagrama.java
 #clique Run As --> Java Application
 ```
 
-### 🎲 Rodando os testes
+### 💻 Rodando os testes
 #Pelo Eclipse
 ```bash
 #Primeiro abra o projeto no eclipse
 #clique no projeto --> src
-#clique com o botão direito do mouse em TesteSenha.java
+#clique com o botão direito do mouse em TesteAnagrama.java
 #clique Run As --> JUnit Test
 ```
