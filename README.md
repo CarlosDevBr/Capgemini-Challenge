@@ -49,7 +49,7 @@ $ cd bin
 # execute a aplicação
 $ java escada
 ```
-#Pelo Eclipse
+# Pelo Eclipse
 ```bash
 #Primeiro abra o projeto no eclipse
 #clique no projeto --> src
@@ -57,7 +57,7 @@ $ java escada
 #clique Run As --> Java Application
 ```
 ### 💻 Rodando os testes
-#Pelo Eclipse
+# Pelo Eclipse
 ```bash
 #Primeiro abra o projeto no eclipse
 #clique no projeto --> src
@@ -84,7 +84,7 @@ $ cd bin
 # execute a aplicação
 $ java senhaForte
 ```
-#Pelo Eclipse
+# Pelo Eclipse
 ```bash
 #Primeiro abra o projeto no eclipse
 #clique no projeto --> src
@@ -93,7 +93,7 @@ $ java senhaForte
 ```
 
 ### 💻 Rodando os testes
-#Pelo Eclipse
+# Pelo Eclipse
 ```bash
 #Primeiro abra o projeto no eclipse
 #clique no projeto --> src
